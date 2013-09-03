@@ -1,0 +1,15 @@
+{
+  "name": "hatching-generator",
+  "version": "0.1.0",
+  "author": "Tom Pearson",
+  "description": "create PNG tiles for hached bitmap fills",
+  "contributors": [
+    {
+      "name": "Tom Pearson",
+      "email": "tom.g.pearson@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "canvas": "~1.1.0"
+  }
+}
