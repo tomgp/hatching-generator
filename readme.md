@@ -1,6 +1,6 @@
 The idea is that this can create little tiles for use as hatched bitmap fills for eg. TileMill.
 
-Requires node canvas which can be a bit of a pain to get going.
+Requires [node canvas](https://github.com/learnboost/node-canvas) which can be a bit of a pain to get going.
 
 to use a tile in carto styles the code will be something like this...
 ```
