@@ -52,10 +52,10 @@ HatchingGenerator.drawFill = function(colours, strip_width, file){
 }
 
 HatchingGenerator.test = function(){
-	var c = [{fill:'rgba(255,50,90,0.5)',stroke:'rgba(255,50,90,0.5)'},
-		{fill:'#000',stroke:'#000'}];
+	var c = [{fill:'rgba(138, 114, 158,0.2)',stroke:'rgba(255,50,90,0)'},
+		{fill:'rgba(0,0,0,0)',stroke:'rgba(0,0,0,0)'}];
 
-	HatchingGenerator.drawFill(c, 20, "test/tile2.png");
+	HatchingGenerator.drawFill(c, 10, "test/tile2.png");
 }
 
 function example () {
